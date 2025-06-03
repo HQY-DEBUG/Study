@@ -1,24 +1,26 @@
 # Study
 
-这是我的学习仓库。
+Personal code repository for learning
 
-## 简介
+## Introduction
 
-这个仓库用于存储我的学习笔记和代码练习。
+This repository is used to store my study notes and code exercises.
 
-## 内容
+## Contents
 
-- 编程练习
-- 学习笔记
-- 项目代码
+- MATLAB
+- Verilog
+- C++
+- HLS
+- Study notes
 
-## 开始使用
+## Getting Started
 
-克隆这个仓库：
+Clone this repository:
 ```bash
 git clone https://github.com/HQY-DEBUG/Study.git
 ```
 
-## 贡献
+## Contributing
 
-欢迎提交 Issue 和 Pull Request！
+Feel free to submit Issues and Pull Requests!
