@@ -44,3 +44,17 @@ ENV/
 *.dll
 *.so
 *.dylib
+
+# MATLAB 相关
+*.asv          # MATLAB 自动保存文件
+*.m~           # MATLAB 备份文件
+slprj/         # Simulink 项目缓存
+*.slxc         # Simulink 缓存文件
+*.mexw64       # MEX 文件 (Windows 64-bit)
+*.mexw32       # MEX 文件 (Windows 32-bit)
+*.mexa64       # MEX 文件 (Linux 64-bit)
+*.mexmaci64    # MEX 文件 (Mac 64-bit)
+*.p            # P 码文件
+*.mat          # MAT 数据文件（可选，看情况）
+codegen/       # MATLAB Coder 生成的代码
+*.prj          # MATLAB 项目文件
